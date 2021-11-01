@@ -1,0 +1,9 @@
+D:\Desktop\C# Projekat\Ophthalmology-office\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.dll
+D:\Desktop\C# Projekat\Ophthalmology-office\BrokerBazePodataka\bin\Debug\BrokerBazePodataka.pdb
+D:\Desktop\C# Projekat\Ophthalmology-office\BrokerBazePodataka\bin\Debug\Domen.dll
+D:\Desktop\C# Projekat\Ophthalmology-office\BrokerBazePodataka\bin\Debug\Domen.pdb
+D:\Desktop\C# Projekat\Ophthalmology-office\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.AssemblyReference.cache
+D:\Desktop\C# Projekat\Ophthalmology-office\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CoreCompileInputs.cache
+D:\Desktop\C# Projekat\Ophthalmology-office\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.csproj.CopyComplete
+D:\Desktop\C# Projekat\Ophthalmology-office\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.dll
+D:\Desktop\C# Projekat\Ophthalmology-office\BrokerBazePodataka\obj\Debug\BrokerBazePodataka.pdb

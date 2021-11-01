@@ -1,0 +1,11 @@
+D:\Desktop\C# Projekat\Ophthalmology-office\SystemOperations\bin\Debug\SistemskeOperacije.dll
+D:\Desktop\C# Projekat\Ophthalmology-office\SystemOperations\bin\Debug\SistemskeOperacije.pdb
+D:\Desktop\C# Projekat\Ophthalmology-office\SystemOperations\bin\Debug\BrokerBazePodataka.dll
+D:\Desktop\C# Projekat\Ophthalmology-office\SystemOperations\bin\Debug\Domen.dll
+D:\Desktop\C# Projekat\Ophthalmology-office\SystemOperations\bin\Debug\BrokerBazePodataka.pdb
+D:\Desktop\C# Projekat\Ophthalmology-office\SystemOperations\bin\Debug\Domen.pdb
+D:\Desktop\C# Projekat\Ophthalmology-office\SystemOperations\obj\Debug\SistemskeOperacije.csproj.AssemblyReference.cache
+D:\Desktop\C# Projekat\Ophthalmology-office\SystemOperations\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+D:\Desktop\C# Projekat\Ophthalmology-office\SystemOperations\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+D:\Desktop\C# Projekat\Ophthalmology-office\SystemOperations\obj\Debug\SistemskeOperacije.dll
+D:\Desktop\C# Projekat\Ophthalmology-office\SystemOperations\obj\Debug\SistemskeOperacije.pdb
